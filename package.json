@@ -1,0 +1,8 @@
+{
+  "name": "@tusent.io/json-database",
+  "version": "1.0.0",
+  "description": "A super lightweight synchronous database module for local storage of key-value data.",
+  "main": "index.js",
+  "author": "Kevin Sundqvist Norlén",
+  "license": "LGPL-3.0-or-later"
+}
