@@ -1,8 +1,16 @@
 {
   "name": "@tusent.io/json-database",
   "version": "1.0.0",
-  "description": "A super lightweight synchronous database module for local storage of key-value data.",
+  "description": "A super lightweight synchronous database/settings module for local storage of key-value data.",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tusentio/json-database.git"
+  },
   "author": "Kevin Sundqvist Norlén",
-  "license": "LGPL-3.0-or-later"
+  "license": "LGPL-3.0-only",
+  "bugs": {
+    "url": "https://github.com/Tusentio/json-database/issues"
+  },
+  "homepage": "https://github.com/Tusentio/json-database#readme"
 }
